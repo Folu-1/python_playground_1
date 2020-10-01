@@ -115,7 +115,7 @@ type(empty_dict)
 
 
 # key value pairs
-emp_data = {'Name': 'Fiyinfolu', 'Age': 30, 'Height': '5ft 8in', 'Hobby': 'Coding'}
+emp_data = {'Name': 'Antetokumbo', 'Age': 27, 'Height': '6ft 1in', 'Hobby': 'Coding'}
 print(emp_data)
 type(emp_data)
 
@@ -210,7 +210,7 @@ print(emp_data)
 
 
 #manipulate data key pairs
-student_names = dict([('Tolu', 23), ('Funmi', 35), ('Folu', 55), ('Ife', 29)])
+student_names = dict([('Tolu', 23), ('Funmi', 35), ('olu', 55), ('Ife', 29)])
 print(student_names)
 
 # 2--->key (Katarina, 20) ---> value
