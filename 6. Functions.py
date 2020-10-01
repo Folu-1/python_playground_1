@@ -70,7 +70,7 @@ def randomText(some_text):
     print(some_text)
     return(some_text)
 
-outcome = randomText('fiyinfolu tokode miriam vvvv cccc bbbbb')
+outcome = randomText('allen antetokumbo miriam vvvv cccc bbbbb')
 print(outcome)
 
 

@@ -142,8 +142,8 @@ print(numSeq[::2])
 
 
 # concatnation of strings
-firstName = 'MoFiyinfoluwa'
-lastName = 'Tokode'
+firstName = 'Allen'
+lastName = 'Antetokumbo'
 fullName = firstName + ' ' + lastName
 print(fullName)
 

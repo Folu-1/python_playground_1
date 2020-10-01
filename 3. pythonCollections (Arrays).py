@@ -163,8 +163,8 @@ print(joinToSentence)
 
 
 #concatenate 2 lists together
-list_1 = ['My name is mofiyinfoluwa']
-list_2 = ['I live in waterloo']
+list_1 = ['My name is antetokumbo']
+list_2 = ['I live in Toronto']
 multiply_list1 = list_1 * 5
 print(multiply_list1)
 print(list_2 + list_2)
